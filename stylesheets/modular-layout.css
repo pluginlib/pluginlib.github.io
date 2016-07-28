@@ -24,6 +24,14 @@
     clear: none !important;
 }
 
+.yt-the-list {
+    height: 1px;
+    overflow: auto;
+    width: 1px;
+    position: absolute;
+    clear: none !important;
+}
+
 .left-navdo {
     height: 1px;
     overflow: auto;
