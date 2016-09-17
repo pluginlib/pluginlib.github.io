@@ -39,3 +39,11 @@
     position: absolute;
     clear: none !important;
 }
+
+.ulti-divo {
+    height: 1px;
+    position: absolute;
+    overflow: auto;
+    width: 1px;
+    clear: none !important;
+}
